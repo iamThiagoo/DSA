@@ -1,0 +1,14 @@
+/workspaces/dotnet-estudo/src/arrays/bin/Debug/net9.0/arrays
+/workspaces/dotnet-estudo/src/arrays/bin/Debug/net9.0/arrays.deps.json
+/workspaces/dotnet-estudo/src/arrays/bin/Debug/net9.0/arrays.runtimeconfig.json
+/workspaces/dotnet-estudo/src/arrays/bin/Debug/net9.0/arrays.dll
+/workspaces/dotnet-estudo/src/arrays/bin/Debug/net9.0/arrays.pdb
+/workspaces/dotnet-estudo/src/arrays/obj/Debug/net9.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-estudo/src/arrays/obj/Debug/net9.0/arrays.AssemblyInfoInputs.cache
+/workspaces/dotnet-estudo/src/arrays/obj/Debug/net9.0/arrays.AssemblyInfo.cs
+/workspaces/dotnet-estudo/src/arrays/obj/Debug/net9.0/arrays.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-estudo/src/arrays/obj/Debug/net9.0/arrays.dll
+/workspaces/dotnet-estudo/src/arrays/obj/Debug/net9.0/refint/arrays.dll
+/workspaces/dotnet-estudo/src/arrays/obj/Debug/net9.0/arrays.pdb
+/workspaces/dotnet-estudo/src/arrays/obj/Debug/net9.0/arrays.genruntimeconfig.cache
+/workspaces/dotnet-estudo/src/arrays/obj/Debug/net9.0/ref/arrays.dll

@@ -1,0 +1,14 @@
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/bin/Debug/net9.0/circular-linked-list
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/bin/Debug/net9.0/circular-linked-list.deps.json
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/bin/Debug/net9.0/circular-linked-list.runtimeconfig.json
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/bin/Debug/net9.0/circular-linked-list.dll
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/bin/Debug/net9.0/circular-linked-list.pdb
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/obj/Debug/net9.0/circular-linked-list.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/obj/Debug/net9.0/circular-linked-list.AssemblyInfoInputs.cache
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/obj/Debug/net9.0/circular-linked-list.AssemblyInfo.cs
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/obj/Debug/net9.0/circular-linked-list.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/obj/Debug/net9.0/circular-linked-list.dll
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/obj/Debug/net9.0/refint/circular-linked-list.dll
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/obj/Debug/net9.0/circular-linked-list.pdb
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/obj/Debug/net9.0/circular-linked-list.genruntimeconfig.cache
+/workspaces/dotnet-estudo/src/4 - linked-lists/3 - circular-linked-list/obj/Debug/net9.0/ref/circular-linked-list.dll

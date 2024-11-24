@@ -1,0 +1,14 @@
+/workspaces/dotnet-estudo/src/3 - stacks/bin/Debug/net9.0/stacks
+/workspaces/dotnet-estudo/src/3 - stacks/bin/Debug/net9.0/stacks.deps.json
+/workspaces/dotnet-estudo/src/3 - stacks/bin/Debug/net9.0/stacks.runtimeconfig.json
+/workspaces/dotnet-estudo/src/3 - stacks/bin/Debug/net9.0/stacks.dll
+/workspaces/dotnet-estudo/src/3 - stacks/bin/Debug/net9.0/stacks.pdb
+/workspaces/dotnet-estudo/src/3 - stacks/obj/Debug/net9.0/stacks.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-estudo/src/3 - stacks/obj/Debug/net9.0/stacks.AssemblyInfoInputs.cache
+/workspaces/dotnet-estudo/src/3 - stacks/obj/Debug/net9.0/stacks.AssemblyInfo.cs
+/workspaces/dotnet-estudo/src/3 - stacks/obj/Debug/net9.0/stacks.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-estudo/src/3 - stacks/obj/Debug/net9.0/stacks.dll
+/workspaces/dotnet-estudo/src/3 - stacks/obj/Debug/net9.0/refint/stacks.dll
+/workspaces/dotnet-estudo/src/3 - stacks/obj/Debug/net9.0/stacks.pdb
+/workspaces/dotnet-estudo/src/3 - stacks/obj/Debug/net9.0/stacks.genruntimeconfig.cache
+/workspaces/dotnet-estudo/src/3 - stacks/obj/Debug/net9.0/ref/stacks.dll

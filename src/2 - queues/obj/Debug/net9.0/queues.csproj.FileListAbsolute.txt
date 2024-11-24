@@ -1,0 +1,14 @@
+/workspaces/dotnet-estudo/src/2 - queues/bin/Debug/net9.0/queues
+/workspaces/dotnet-estudo/src/2 - queues/bin/Debug/net9.0/queues.deps.json
+/workspaces/dotnet-estudo/src/2 - queues/bin/Debug/net9.0/queues.runtimeconfig.json
+/workspaces/dotnet-estudo/src/2 - queues/bin/Debug/net9.0/queues.dll
+/workspaces/dotnet-estudo/src/2 - queues/bin/Debug/net9.0/queues.pdb
+/workspaces/dotnet-estudo/src/2 - queues/obj/Debug/net9.0/queues.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-estudo/src/2 - queues/obj/Debug/net9.0/queues.AssemblyInfoInputs.cache
+/workspaces/dotnet-estudo/src/2 - queues/obj/Debug/net9.0/queues.AssemblyInfo.cs
+/workspaces/dotnet-estudo/src/2 - queues/obj/Debug/net9.0/queues.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-estudo/src/2 - queues/obj/Debug/net9.0/queues.dll
+/workspaces/dotnet-estudo/src/2 - queues/obj/Debug/net9.0/refint/queues.dll
+/workspaces/dotnet-estudo/src/2 - queues/obj/Debug/net9.0/queues.pdb
+/workspaces/dotnet-estudo/src/2 - queues/obj/Debug/net9.0/queues.genruntimeconfig.cache
+/workspaces/dotnet-estudo/src/2 - queues/obj/Debug/net9.0/ref/queues.dll

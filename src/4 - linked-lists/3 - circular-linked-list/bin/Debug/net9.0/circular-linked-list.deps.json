@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "circular-linked-list/1.0.0": {
+        "runtime": {
+          "circular-linked-list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "circular-linked-list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

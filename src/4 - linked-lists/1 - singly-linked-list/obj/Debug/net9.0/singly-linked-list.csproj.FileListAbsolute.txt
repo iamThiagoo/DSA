@@ -1,0 +1,14 @@
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/bin/Debug/net9.0/singly-linked-list
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/bin/Debug/net9.0/singly-linked-list.deps.json
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/bin/Debug/net9.0/singly-linked-list.runtimeconfig.json
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/bin/Debug/net9.0/singly-linked-list.dll
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/bin/Debug/net9.0/singly-linked-list.pdb
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/obj/Debug/net9.0/singly-linked-list.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/obj/Debug/net9.0/singly-linked-list.AssemblyInfoInputs.cache
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/obj/Debug/net9.0/singly-linked-list.AssemblyInfo.cs
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/obj/Debug/net9.0/singly-linked-list.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/obj/Debug/net9.0/singly-linked-list.dll
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/obj/Debug/net9.0/refint/singly-linked-list.dll
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/obj/Debug/net9.0/singly-linked-list.pdb
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/obj/Debug/net9.0/singly-linked-list.genruntimeconfig.cache
+/workspaces/dotnet-estudo/src/4 - linked-lists/1 - singly-linked-list/obj/Debug/net9.0/ref/singly-linked-list.dll

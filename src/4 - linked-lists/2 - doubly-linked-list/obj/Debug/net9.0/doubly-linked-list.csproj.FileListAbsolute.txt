@@ -1,0 +1,14 @@
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/bin/Debug/net9.0/doubly-linked-list
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/bin/Debug/net9.0/doubly-linked-list.deps.json
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/bin/Debug/net9.0/doubly-linked-list.runtimeconfig.json
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/bin/Debug/net9.0/doubly-linked-list.dll
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/bin/Debug/net9.0/doubly-linked-list.pdb
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/obj/Debug/net9.0/doubly-linked-list.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/obj/Debug/net9.0/doubly-linked-list.AssemblyInfoInputs.cache
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/obj/Debug/net9.0/doubly-linked-list.AssemblyInfo.cs
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/obj/Debug/net9.0/doubly-linked-list.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/obj/Debug/net9.0/doubly-linked-list.dll
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/obj/Debug/net9.0/refint/doubly-linked-list.dll
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/obj/Debug/net9.0/doubly-linked-list.pdb
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/obj/Debug/net9.0/doubly-linked-list.genruntimeconfig.cache
+/workspaces/dotnet-estudo/src/4 - linked-lists/2 - doubly-linked-list/obj/Debug/net9.0/ref/doubly-linked-list.dll
