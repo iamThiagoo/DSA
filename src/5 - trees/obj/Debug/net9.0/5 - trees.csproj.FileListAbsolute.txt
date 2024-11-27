@@ -1,0 +1,15 @@
+/workspaces/dotnet-estudo/src/5 - trees/obj/Debug/net9.0/5 - trees.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-estudo/src/5 - trees/obj/Debug/net9.0/5 - trees.AssemblyInfoInputs.cache
+/workspaces/dotnet-estudo/src/5 - trees/obj/Debug/net9.0/5 - trees.AssemblyInfo.cs
+/workspaces/dotnet-estudo/src/5 - trees/obj/Debug/net9.0/5 - trees.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-estudo/src/5 - trees/obj/Debug/net9.0/5 - trees.sourcelink.json
+/workspaces/dotnet-estudo/src/5 - trees/bin/Debug/net9.0/5 - trees
+/workspaces/dotnet-estudo/src/5 - trees/bin/Debug/net9.0/5 - trees.deps.json
+/workspaces/dotnet-estudo/src/5 - trees/bin/Debug/net9.0/5 - trees.runtimeconfig.json
+/workspaces/dotnet-estudo/src/5 - trees/bin/Debug/net9.0/5 - trees.dll
+/workspaces/dotnet-estudo/src/5 - trees/bin/Debug/net9.0/5 - trees.pdb
+/workspaces/dotnet-estudo/src/5 - trees/obj/Debug/net9.0/5 - trees.dll
+/workspaces/dotnet-estudo/src/5 - trees/obj/Debug/net9.0/refint/5 - trees.dll
+/workspaces/dotnet-estudo/src/5 - trees/obj/Debug/net9.0/5 - trees.pdb
+/workspaces/dotnet-estudo/src/5 - trees/obj/Debug/net9.0/5 - trees.genruntimeconfig.cache
+/workspaces/dotnet-estudo/src/5 - trees/obj/Debug/net9.0/ref/5 - trees.dll

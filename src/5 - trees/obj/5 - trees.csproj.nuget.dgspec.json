@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/dotnet-estudo/src/trees/trees.csproj": {}
+    "/workspaces/dotnet-estudo/src/5 - trees/5 - trees.csproj": {}
   },
   "projects": {
-    "/workspaces/dotnet-estudo/src/trees/trees.csproj": {
+    "/workspaces/dotnet-estudo/src/5 - trees/5 - trees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/dotnet-estudo/src/trees/trees.csproj",
-        "projectName": "trees",
-        "projectPath": "/workspaces/dotnet-estudo/src/trees/trees.csproj",
+        "projectUniqueName": "/workspaces/dotnet-estudo/src/5 - trees/5 - trees.csproj",
+        "projectName": "5 - trees",
+        "projectPath": "/workspaces/dotnet-estudo/src/5 - trees/5 - trees.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/workspaces/dotnet-estudo/src/trees/obj/",
+        "outputPath": "/workspaces/dotnet-estudo/src/5 - trees/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"
