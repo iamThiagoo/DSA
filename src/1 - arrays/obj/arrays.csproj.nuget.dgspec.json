@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/dotnet-estudo/src/arrays/arrays.csproj": {}
+    "/workspaces/dotnet-estudo/src/1 - arrays/arrays.csproj": {}
   },
   "projects": {
-    "/workspaces/dotnet-estudo/src/arrays/arrays.csproj": {
+    "/workspaces/dotnet-estudo/src/1 - arrays/arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/dotnet-estudo/src/arrays/arrays.csproj",
+        "projectUniqueName": "/workspaces/dotnet-estudo/src/1 - arrays/arrays.csproj",
         "projectName": "arrays",
-        "projectPath": "/workspaces/dotnet-estudo/src/arrays/arrays.csproj",
+        "projectPath": "/workspaces/dotnet-estudo/src/1 - arrays/arrays.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/workspaces/dotnet-estudo/src/arrays/obj/",
+        "outputPath": "/workspaces/dotnet-estudo/src/1 - arrays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/dotnet-estudo/src/graphs/graphs.csproj": {}
+    "/workspaces/dotnet-estudo/src/6 - graphs/graphs.csproj": {}
   },
   "projects": {
-    "/workspaces/dotnet-estudo/src/graphs/graphs.csproj": {
+    "/workspaces/dotnet-estudo/src/6 - graphs/graphs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/dotnet-estudo/src/graphs/graphs.csproj",
+        "projectUniqueName": "/workspaces/dotnet-estudo/src/6 - graphs/graphs.csproj",
         "projectName": "graphs",
-        "projectPath": "/workspaces/dotnet-estudo/src/graphs/graphs.csproj",
+        "projectPath": "/workspaces/dotnet-estudo/src/6 - graphs/graphs.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/workspaces/dotnet-estudo/src/graphs/obj/",
+        "outputPath": "/workspaces/dotnet-estudo/src/6 - graphs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"

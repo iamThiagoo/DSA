@@ -1,0 +1,15 @@
+/workspaces/dotnet-estudo/src/6 - graphs/bin/Debug/net9.0/graphs
+/workspaces/dotnet-estudo/src/6 - graphs/bin/Debug/net9.0/graphs.deps.json
+/workspaces/dotnet-estudo/src/6 - graphs/bin/Debug/net9.0/graphs.runtimeconfig.json
+/workspaces/dotnet-estudo/src/6 - graphs/bin/Debug/net9.0/graphs.dll
+/workspaces/dotnet-estudo/src/6 - graphs/bin/Debug/net9.0/graphs.pdb
+/workspaces/dotnet-estudo/src/6 - graphs/obj/Debug/net9.0/graphs.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-estudo/src/6 - graphs/obj/Debug/net9.0/graphs.AssemblyInfoInputs.cache
+/workspaces/dotnet-estudo/src/6 - graphs/obj/Debug/net9.0/graphs.AssemblyInfo.cs
+/workspaces/dotnet-estudo/src/6 - graphs/obj/Debug/net9.0/graphs.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-estudo/src/6 - graphs/obj/Debug/net9.0/graphs.sourcelink.json
+/workspaces/dotnet-estudo/src/6 - graphs/obj/Debug/net9.0/graphs.dll
+/workspaces/dotnet-estudo/src/6 - graphs/obj/Debug/net9.0/refint/graphs.dll
+/workspaces/dotnet-estudo/src/6 - graphs/obj/Debug/net9.0/graphs.pdb
+/workspaces/dotnet-estudo/src/6 - graphs/obj/Debug/net9.0/graphs.genruntimeconfig.cache
+/workspaces/dotnet-estudo/src/6 - graphs/obj/Debug/net9.0/ref/graphs.dll
